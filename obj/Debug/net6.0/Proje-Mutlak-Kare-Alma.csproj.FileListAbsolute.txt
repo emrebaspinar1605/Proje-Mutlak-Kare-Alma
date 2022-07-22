@@ -1,0 +1,15 @@
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-Mutlak-Kare-Alma\bin\Debug\net6.0\Proje-Mutlak-Kare-Alma.exe
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-Mutlak-Kare-Alma\bin\Debug\net6.0\Proje-Mutlak-Kare-Alma.deps.json
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-Mutlak-Kare-Alma\bin\Debug\net6.0\Proje-Mutlak-Kare-Alma.runtimeconfig.json
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-Mutlak-Kare-Alma\bin\Debug\net6.0\Proje-Mutlak-Kare-Alma.dll
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-Mutlak-Kare-Alma\bin\Debug\net6.0\Proje-Mutlak-Kare-Alma.pdb
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-Mutlak-Kare-Alma\obj\Debug\net6.0\Proje-Mutlak-Kare-Alma.csproj.AssemblyReference.cache
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-Mutlak-Kare-Alma\obj\Debug\net6.0\Proje-Mutlak-Kare-Alma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-Mutlak-Kare-Alma\obj\Debug\net6.0\Proje-Mutlak-Kare-Alma.AssemblyInfoInputs.cache
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-Mutlak-Kare-Alma\obj\Debug\net6.0\Proje-Mutlak-Kare-Alma.AssemblyInfo.cs
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-Mutlak-Kare-Alma\obj\Debug\net6.0\Proje-Mutlak-Kare-Alma.csproj.CoreCompileInputs.cache
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-Mutlak-Kare-Alma\obj\Debug\net6.0\Proje-Mutlak-Kare-Alma.dll
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-Mutlak-Kare-Alma\obj\Debug\net6.0\refint\Proje-Mutlak-Kare-Alma.dll
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-Mutlak-Kare-Alma\obj\Debug\net6.0\Proje-Mutlak-Kare-Alma.pdb
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-Mutlak-Kare-Alma\obj\Debug\net6.0\Proje-Mutlak-Kare-Alma.genruntimeconfig.cache
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-Mutlak-Kare-Alma\obj\Debug\net6.0\ref\Proje-Mutlak-Kare-Alma.dll
